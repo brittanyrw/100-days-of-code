@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge.
 
-* I will be participating in the 100 Days of Code Challenge. My progress will be tracked via this repository, Medium and my person website.
+* I will be participating in the 100 Days of Code Challenge. My progress will be tracked via this repository, [Twitter](https://twitter.com/musicalwebdev), [my Medium blog](https://medium.com/@brittanyrw) and my person website (coming soon).
 
 ## Contents
 * [Rules](rules.md)
