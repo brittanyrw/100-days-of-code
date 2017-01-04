@@ -57,5 +57,5 @@ Total hours learning: 4 hrs
 
 **Link to work:** 
 
-* [Day 2: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/816298369366818817)
+* [Day 2: #100DaysofCode Tweet](https://twitter.com/musicalwebdev)
 * [Day 1: #100DaysofCode Coding Journey Calendar GitHub Repo](https://github.com/brittanyrw/coding-journey-calendar)
