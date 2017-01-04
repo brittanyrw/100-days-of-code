@@ -24,9 +24,7 @@ I'm really excited to get started on the challenge. I think that Tweeting and wr
 
 2. I attended an Intro to Javascript course hosted by Thinkful DC. Very helpful and it was nice to be around other people instead of just learning on my own. (2 hrs)
 
-3. Completed a few JavaScript exercises on Free Code Camp. (30 mins)
-
-4. Completed You Don't Know Javascript: Up & Going Chapter 1. (1 hr)
+3. Completed You Don't Know Javascript: Up & Going Chapter 1. (1 hr)
 
 Total hours learning: 5 hrs
 
