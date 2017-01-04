@@ -24,7 +24,7 @@ I'm really excited to get started on the challenge. I think that Tweeting and wr
 
 2. I attended an Intro to Javascript course hosted by Thinkful DC. Very helpful and it was nice to be around other people instead of just learning on my own. (2 hrs)
 
-3. Continued with You Don't Know Javascript: Up & Going Chapter 1. (1 hr)
+3. Continued with You Don't Know JS: Up & Going Chapter 1. (1 hr)
 
 Total hours learning: 5 hrs
 
@@ -39,3 +39,23 @@ Drawing out my idea for the calendar really made laying out the HTML easier for 
 * [Day 1: #100DaysofCode Introduction Blog Post](https://medium.com/@brittanyrw/my-2017-coding-journey-100daysofcode-30a55222aa9a#.d3arfg5nq)
 * [Day 1: #100DaysofCode Coding Journey Calendar GitHub Repo](https://github.com/brittanyrw/coding-journey-calendar)
 
+### Day 2: January 4, 2017 
+
+**Today's Progress**: 
+
+1. Attended Ruby on Rails: Beginners Night hosted by Women Who Code DC. (2 hrs)
+
+2. Worked on the HTML for my calendar page and also started to work on CSS. (1 hr)
+
+3. Continued with You Don't Know JS Up & Going Chapter 1. (1 hr)
+
+Total hours learning: 4 hrs
+
+**Thoughts:** 
+
+ 
+
+**Link to work:** 
+
+* [Day 2: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/816298369366818817)
+* [Day 1: #100DaysofCode Coding Journey Calendar GitHub Repo](https://github.com/brittanyrw/coding-journey-calendar)
