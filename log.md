@@ -36,8 +36,8 @@ Drawing out my idea for the calendar really made laying out the HTML easier for 
 
 **Link to work:** 
 
-* [Day 1: #100DaysofCode Tweet #1](https://twitter.com/musicalwebdev)
-* [Day 1: #100DaysofCode Tweet #2](https://twitter.com/musicalwebdev)
-* [Day 1: #100DaysofCode Introduction Blog Post](https://twitter.com/musicalwebdev)
+* [Day 1: #100DaysofCode Tweet #1](https://twitter.com/musicalwebdev/status/816298369366818817)
+* [Day 1: #100DaysofCode Tweet #2](https://twitter.com/musicalwebdev/status/816478256576729089)
+* [Day 1: #100DaysofCode Introduction Blog Post](https://medium.com/@brittanyrw/my-2017-coding-journey-100daysofcode-30a55222aa9a#.d3arfg5nq)
 * [Day 1: #100DaysofCode Coding Journey Calendar GitHub Repo](https://github.com/brittanyrw/coding-journey-calendar)
 
