@@ -43,7 +43,7 @@ Drawing out my idea for the calendar really made laying out the HTML easier for 
 
 **Today's Progress**: 
 
-1. Attended Ruby on Rails: Beginners Night hosted by Women Who Code DC. (2 hrs)
+1. Attended Ruby on Rails: Beginners Night hosted by Women Who Code DC. Downoaded Ruby and Rails! (2 hrs)
 
 2. Worked on the HTML for my calendar page and also started to work on CSS. (1 hr)
 
@@ -53,9 +53,9 @@ Total hours learning: 4 hrs
 
 **Thoughts:** 
 
- 
+Made some good progress on the CSS for my project but of course, it still needs a lot of work. Working on the mobile phone version right now. The color scheme I originally chose is actually working out. 
 
 **Link to work:** 
 
-* [Day 2: #100DaysofCode Tweet](https://twitter.com/musicalwebdev)
-* [Day 1: #100DaysofCode Coding Journey Calendar GitHub Repo](https://github.com/brittanyrw/coding-journey-calendar)
+* [Day 2: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/816853513674362881)
+* [Day 2: #100DaysofCode Coding Journey Calendar GitHub Repo](https://github.com/brittanyrw/coding-journey-calendar)
