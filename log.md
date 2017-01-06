@@ -26,7 +26,7 @@ I'm really excited to get started on the challenge. I think that Tweeting and wr
 
 3. Continued with You Don't Know JS: Up & Going Chapter 1. (1 hr)
 
-Total hours learning: 5 hrs
+Total hours learning: 4.5 hrs
 
 **Thoughts:** 
 
@@ -59,3 +59,23 @@ Made some good progress on the CSS for my project but of course, it still needs 
 
 * [Day 2: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/816853513674362881)
 * [Day 2: #100DaysofCode Coding Journey Calendar GitHub Repo](https://github.com/brittanyrw/coding-journey-calendar)
+
+
+### Day 3: January 5, 2017 
+
+**Today's Progress**: 
+
+1. Added responsiveness to my Free Code Camp Tribute Page. (2 hr)
+
+2. Continued with You Don't Know JS Up & Going. (1 hr)
+
+Total hours learning: 3 hrs
+
+**Thoughts:** 
+
+Really stoked that my tribute page now works on mobile as well as desktop. It looks awesome!
+
+**Link to work:** 
+
+* [Day 3: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/817191625470447616)
+* [Day 3: Free Code Camp Tribute Page](https://brittanyrw.github.io/free-code-camp-tribute-page-v2/)
