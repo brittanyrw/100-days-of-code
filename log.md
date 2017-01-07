@@ -79,3 +79,27 @@ Really stoked that my tribute page now works on mobile as well as desktop. It lo
 
 * [Day 3: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/817191625470447616)
 * [Day 3: Free Code Camp Tribute Page](https://brittanyrw.github.io/free-code-camp-tribute-page-v2/)
+
+
+### Day 4: January 6, 2017 
+
+**Today's Progress**: 
+
+1. Created small images of Kirk and Spock with CSS after reading [a CSS images tutorial by Mike Mangialardi](http://codepen.io/mikemang/post/a-beginner-s-guide-to-pure-css-images). (2 hrs)
+
+2. Codecaademy Javascript Track (1 hr)
+
+3. Also made some minor updates to my Free Code Camp Tribute page. (10 mins)
+
+Total hours learning: 3 hrs
+
+**Thoughts:** 
+
+I was planning on studying Javascript tonight but creating CSS images turned out to be super fun. 
+
+**Link to work:** 
+
+* [Day 4: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/817557364735930372)
+* [Day 4: CSS Image Mini Project](http://codepen.io/trekkiegirl/full/vgOeNP/)
+* [Day 4: Free Code Camp Tribute Page](https://brittanyrw.github.io/free-code-camp-tribute-page-v2/)
+
