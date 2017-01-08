@@ -87,7 +87,7 @@ Really stoked that my tribute page now works on mobile as well as desktop. It lo
 
 1. Created small images of Kirk and Spock with CSS after reading [a CSS images tutorial by Mike Mangialardi](http://codepen.io/mikemang/post/a-beginner-s-guide-to-pure-css-images). (2 hrs)
 
-2. Codecaademy Javascript Track (1 hr)
+2. Codecademy Javascript Track (1 hr)
 
 3. Also made some minor updates to my Free Code Camp Tribute page. (10 mins)
 
@@ -103,3 +103,28 @@ I was planning on studying Javascript tonight but creating CSS images turned out
 * [Day 4: CSS Image Mini Project](http://codepen.io/trekkiegirl/full/vgOeNP/)
 * [Day 4: Free Code Camp Tribute Page](https://brittanyrw.github.io/free-code-camp-tribute-page-v2/)
 
+### Day 5: January 7, 2017 
+
+**Today's Progress**: 
+
+1. Updated code for my Spock and Kirk CSS images. (30 mins)
+
+2. Codecademy Javascript Track (1 hr)
+
+3. Continued working on my Coding Journey Calendar Project. (1 hr)
+
+4. Drafted 1st week blog post.
+
+Total hours learning: 2.5 hrs
+
+**Thoughts:** 
+
+I realized that I could condense my code for my Star Trek CSS images so I worked on that today. I also need to figure out how to make them responsive. And I sketched some ideas for more CSS images (addicted now) that I will start on tomorrow. 
+
+I also came up with a theme/layout for my Free Code Camp portfolio page project which will also probably be my ACTUAL portfolio because it looks great so far (at least on paper it does).
+
+**Link to work:** 
+
+* [Day 4: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/817920416865980417)
+* [Day 4: CSS Image Mini Project](http://codepen.io/trekkiegirl/full/vgOeNP/)
+* [Day 4: #100DaysofCode Coding Journey Calendar GitHub Repo](https://github.com/brittanyrw/coding-journey-calendar)
