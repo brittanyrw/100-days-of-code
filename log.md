@@ -125,6 +125,25 @@ I also came up with a theme/layout for my Free Code Camp portfolio page project 
 
 **Link to work:** 
 
-* [Day 4: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/817920416865980417)
-* [Day 4: CSS Image Mini Project](http://codepen.io/trekkiegirl/full/vgOeNP/)
-* [Day 4: #100DaysofCode Coding Journey Calendar GitHub Repo](https://github.com/brittanyrw/coding-journey-calendar)
+* [Day 5: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/817920416865980417)
+* [Day 5: CSS Image Mini Project](http://codepen.io/trekkiegirl/full/vgOeNP/)
+* [Day 5: #100DaysofCode Coding Journey Calendar GitHub Repo](https://github.com/brittanyrw/coding-journey-calendar)
+
+### Day 6: January 8, 2017
+
+**Today's Progress**:
+
+1. Javascript exercises on Codecademy and more YDNJS reading. (2 hrs)
+
+2. Published a weekly recap post on my blog.
+
+3. Finalized the reponsive layout for my colding calendar. (1 hrs)
+
+**Thoughts:**
+The blog post took a while to write but I think it came out really well. I will continue with the same format of adding pictures and covering projects, meetups and goals for the upcoming week.
+
+**Link to work:**
+
+* [Day 6: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/818262705803034625)
+* [Day 6: #100DaysofCode Blog Post - Week 1 Recap](https://medium.com/@brittanyrw/100-days-of-code-2017-week-1-recap-74a1bff5fc65#.dwqb0tfjd)
+* [Day 6: #100DaysofCode Coding Journey Calendar GitHub Repo](https://github.com/brittanyrw/coding-journey-calendar)
