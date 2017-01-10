@@ -148,9 +148,9 @@ The blog post took a while to write but I think it came out really well. I will 
 * [Day 6: #100DaysofCode Blog Post - Week 1 Recap](https://medium.com/@brittanyrw/100-days-of-code-2017-week-1-recap-74a1bff5fc65#.dwqb0tfjd)
 * [Day 6: #100DaysofCode Coding Journey Calendar GitHub Repo](https://github.com/brittanyrw/coding-journey-calendar)
 
-## Day 7: January 9, 2017
+### Day 7: January 9, 2017
 
-**Today's Profess**:
+**Today's Progress**:
 
 1. Attended a Thinkful DC Javascript course where we built a simple game.
 
