@@ -6,7 +6,9 @@
 
 1. Completed a daily CSS image challenge (prompt was Beaver). 
 
-3. Completed some HTML and CSS exercises through Thinkful.
+2. Completed some HTML and CSS exercises through Thinkful.
+
+3. Small update for responsiveness to my FCC Tribute page.
 
 **Link to work:**
 
