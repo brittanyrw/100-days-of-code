@@ -16,7 +16,7 @@ I almost finished the design and layout for my porfolio page when I realized tha
 
 **Link to work:**
 
-* [Day 13: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/820847081824878592)
+* [Day 13: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/820847798006534144)
 
 ### Day 12: January 14, 2017
 
