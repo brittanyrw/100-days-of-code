@@ -8,12 +8,15 @@
 
 2. Working through HTML and CSS exercises through Thinkful.
 
-3. Published weekly recap blog post.
+3. Wrote draft for weekly recap blog post.
+
+**Thoughts:**
+
+I almost finished the design and layout for my porfolio page when I realized that I forgot about responsive design! Will start again tomorrow.
 
 **Link to work:**
 
-* [Day 13: #100DaysofCode Tweet]()
-* [Day 13: #100DaysofCode Blog Post - Week 2 Recap]()
+* [Day 13: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/820847081824878592)
 
 ### Day 12: January 14, 2017
 
