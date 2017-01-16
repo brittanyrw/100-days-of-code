@@ -1,5 +1,58 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 15, 2017
+
+**Today's Progress**:
+
+1. Continued working on coding journey calendar webpage. 
+
+2. Working through HTML and CSS exercises through Thinkful.
+
+3. Published weekly recap blog post.
+
+**Link to work:**
+
+* [Day 13: #100DaysofCode Tweet]()
+* [Day 13: #100DaysofCode Blog Post - Week 2 Recap]()
+
+### Day 12: January 14, 2017
+
+**Today's Progress**:
+
+1. Created outline for FCC portfolio page project.
+
+2. Working through HTML and CSS exercises through Thinkful.
+
+**Link to work:**
+
+* [Day 12: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/820393567189422080)
+
+### Day 11: January 13, 2017
+
+**Today's Progress**:
+
+1. Completed a daily CSS image challenge (prompt was favorite animal from an animation). 
+
+2. Working through HTML and CSS exercises through Thinkful.
+
+**Link to work:**
+
+* [Day 11: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/820111391248027648)
+* [Day 11: #100DaysofCode Daily CSS Image - Mushu](https://codepen.io/trekkiegirl/full/VPjGrL/)
+
+### Day 10: January 12, 2017
+
+**Today's Progress**:
+
+1. Completed a daily CSS image challenge (prompt was Tiger). 
+
+2. Working through HTML and CSS exercises through Thinkful.
+
+**Link to work:**
+
+* [Day 10: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/819735582830104576)
+* [Day 10: #100DaysofCode Daily CSS Image - Tiger](https://codepen.io/trekkiegirl/full/ggMOQp/)
+
 ### Day 9: January 11, 2017
 
 **Today's Progress**:
