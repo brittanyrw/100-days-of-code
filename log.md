@@ -1,5 +1,49 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 18, 2017
+
+**Today's Progress**:
+
+1. Finished CSS image (clock)
+
+3. Continued learning JavaScript basics (objects).
+
+4. Attended a Thinkful Web Developer Meetup.
+
+**Link to work:**
+
+* [Day 16: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/821928550211190784)
+* [Day 16: #100DaysofCode Daily CSS Image - Clock](http://codepen.io/trekkiegirl/full/LxxQaG/)
+
+### Day 15: January 17, 2017
+
+**Today's Progress**:
+
+1. Continued working on the clock CSS image prompt.
+
+3. Continued learning JavaScript basics (scope, arrays and loops).
+
+4. Attended a Thinkful jQuery and Javascript Meetup.
+
+**Link to work:**
+
+* [Day 15: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/821579060665008129)
+
+### Day 14: January 16, 2017
+
+**Today's Progress**:
+
+1. Published weekly recap blog post.
+
+2. Started working on the clock CSS image prompt.
+
+3. Continued learning JavaScript basics.
+
+**Link to work:**
+
+* [Day 14: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/821132577981497345)
+* [Day 14: #100DaysofCode Blog Post - Week 2 Recap](https://medium.com/@brittanyrw/100-days-of-code-2017-week-2-recap-fb43e0dda4e6#.pia1n6chr)
+
 ### Day 13: January 15, 2017
 
 **Today's Progress**:
