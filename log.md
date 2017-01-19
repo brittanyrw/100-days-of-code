@@ -10,6 +10,8 @@
 
 4. Attended a Thinkful Web Developer Meetup.
 
+5. Started to add data to coding calendar webpage.
+
 **Link to work:**
 
 * [Day 16: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/821928550211190784)
