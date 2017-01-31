@@ -1,5 +1,131 @@
 # 100 Days Of Code - Log
 
+
+### Day 28: January 30, 2017
+
+**Today's Progress**:
+
+1. Continued working on quiz app. Pretty much done with CSS and now need to add in jQuery and Javascript.
+
+2. Created Frankenstein bears for Daily CSS images 'Frankenstein' prompt.
+
+**Link to work:**
+
+* [Day 28: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/826290376038350848)
+* [Day 28: #100DaysofCode Daily CSS Image - Frankenstein](https://t.co/y8Jfb8nT8p)
+
+### Day 27: January 29, 2017
+
+**Today's Progress**:
+
+1. Worked on CSS for quiz app.
+
+2. Spent a lot of time in Illustrator creating images for my quiz app. Had to review the basics again so I started the Treehouse Adobe Illustrator Foundations course. 
+
+**Link to work:**
+
+* [Day 27: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/825835816417185792)
+
+### Day 26: January 28, 2017
+
+**Today's Progress**:
+
+1. Set up the structure for my quiz app.
+
+2. Continued learnig more about Sass via Treehouse.
+
+**Link to work:**
+
+* [Day 26: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/825576689929482240)
+
+### Day 25: January 27, 2017
+
+**Today's Progress**:
+
+1. Working on a shopping list app. 
+
+2. Created CSS image for 'pencil jar' prompt.
+
+**Link to work:**
+* [Day 25: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/825191530516328450)
+* [Day 25: #100DaysofCode Daily CSS Image - Pencil Jar](https://t.co/3Lr7CiSOPq)
+
+### Day 24: January 26, 2017
+
+**Today's Progress**:
+
+1. Completed some JavaScript Codewar challenges.
+
+2. Working on shopping list app.
+
+3. Completed hambuger CSS image.
+
+**Link to work:**
+
+* [Day 24: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/824843771300847621)
+* [Day 24: #100DaysofCode Tweet #2](https://twitter.com/musicalwebdev/status/824798168483237888)
+* [Day 24: #100DaysofCode Daily CSS Image - Hamburger](https://t.co/owz5Fsd7om)
+
+### Day 23: January 25, 2017
+
+**Today's Progress**:
+
+1. Started working on quiz app project.
+
+2. Started working on hamburger CSS image.
+
+3. Attended a Git & Github Meetup (Thinkful DC).
+
+4. Completed some Codewars JavaScript challenges.
+
+**Link to work:**
+
+* [Day 23: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/824475264071700483)
+
+### Day 22: January 24, 2017
+
+**Today's Progress**:
+
+**Link to work:**
+
+### Day 21: January 23, 2017
+
+**Today's Progress**:
+
+**Link to work:**
+
+### Day 20: January 22, 2017
+
+**Today's Progress**:
+
+**Link to work:**
+
+### Day 19: January 21, 2017
+
+**Today's Progress**:
+
+**Link to work:**
+
+### Day 18: January 20, 2017
+
+**Today's Progress**:
+
+**Link to work:**
+
+### Day 17: January 19, 2017
+
+**Today's Progress**:
+
+1. Continuing Thinkful Bootcamp Prep Course.
+
+2. Attending PowerToFly webinar.
+
+3. Continuing to work on CSS images.
+
+**Link to work:**
+
+* [Day 17: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/822305140505858048)
+
 ### Day 16: January 18, 2017
 
 **Today's Progress**:
