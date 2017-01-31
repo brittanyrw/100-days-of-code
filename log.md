@@ -86,31 +86,66 @@
 
 **Today's Progress**:
 
+1. Attended another Thinkful DC meetup.
+
+2. Working on quiz app.
+
 **Link to work:**
+
+* [Day 22: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/824094451849170944)
 
 ### Day 21: January 23, 2017
 
 **Today's Progress**:
 
+1. Published Week 3 recap blog post.
+
+2. Continuing to learn more about Sass.
+
+3. Completed CodeWars Javascript challenges.
+
 **Link to work:**
+
+* [Day 21: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/823730384663941120)
+* [Day 21: #100DaysofCode Blog Post - Week 3 Recap](https://t.co/FUXPJcLyvY)
 
 ### Day 20: January 22, 2017
 
 **Today's Progress**:
 
+1. Started HTML for portfolio project.
+
+2. Continue with learning Sass.
+
 **Link to work:**
+
+* [Day 20: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/823374424342663170)
 
 ### Day 19: January 21, 2017
 
 **Today's Progress**:
 
+1. Started Sass Basics course from Treehouse.
+
+2. Working on jQuery apps.
+
+3. Worked on Javascript 30 Day 1.
+
 **Link to work:**
+* [Day 19: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/823029711873916928)
 
 ### Day 18: January 20, 2017
 
 **Today's Progress**:
 
+1. Completed Codewars Javascript challenges.
+
+2. Started studying machine learning on Udacity.
+
+3. Completed some FreeCodeCamp Javascript challenges.
+
 **Link to work:**
+* [Day 18: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/822632141334921216)
 
 ### Day 17: January 19, 2017
 
