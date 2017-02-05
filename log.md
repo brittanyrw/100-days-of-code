@@ -8,7 +8,7 @@
 
 2. Started researching ways of learning UI/UX design.
 
-3. Working on the general layout for portfolio project.
+3. Working on the general layout for FCC portfolio project.
 
 4. Working on Thinkful Youtube API project.
 
