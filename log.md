@@ -1,5 +1,72 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 4, 2017
+
+**Today's Progress**:
+
+1. Started Harvard's CS50x course. 
+
+2. Started researching ways of learning UI/UX design.
+
+3. Working on the general layout for portfolio project.
+
+4. Working on Thinkful Youtube API project.
+
+**Link to work:**
+
+* [Day 33: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/828061062327046145)
+
+### Day 32: February 3, 2017
+
+**Today's Progress**:
+
+1. Finished the quiz app!! It is a Hamilton the Musical app. The next step in the future would be to make it responsive.
+
+**Link to work:**
+
+* [Day 32: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/827726291768053760)
+* [Day 32: #100DaysofCode Hamilton Quiz App](https://brittanyrw.github.io/hamilton-quiz-app/)
+
+### Day 31: February 2, 2017
+
+**Today's Progress**:
+
+1. Continue working on quiz app.
+
+2. Planning out portfolio project. Trying to decide on a layout.
+
+**Link to work:**
+
+* [Day 31: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/827341073617997825)
+
+### Day 30: February 1, 2017
+
+**Today's Progress**:
+
+1. Continued working on quiz app.
+
+2. Created a zombie bridge for the Daily CSS Image 'Zombie' prompt.
+
+**Link to work:**
+
+* [Day 30: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/827023865574469632)
+* [Day 30: #100DaysofCode Daily CSS Image - Zombie Bride](http://codepen.io/trekkiegirl/full/BprJpB)
+
+
+### Day 29: January 31, 2017
+
+**Today's Progress**:
+
+1. Continued working on quiz app.
+
+2. Attended Thinkful DC Meetup - Building a Twitter Bot with Pyton.
+
+3. Continuing with Treehouse Sass Basics course.
+
+**Link to work:**
+
+* [Day 29: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/826633022606807040)
+* [Day 29: #100DaysofCode Blog Post - Week 4 Recap](https://t.co/EgxBVrWcva)
 
 ### Day 28: January 30, 2017
 
