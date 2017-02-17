@@ -12,7 +12,7 @@
 
 **Link to work:**
 
-* [Day 45: #100DaysofCode Tweet]()
+* [Day 45: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/832446832689160192)
 * [Day 36: #100DaysofCode Blog Post - Week 6 Recap](https://medium.com/@brittanyrw/100-days-of-code-2017-week-6-recap-6af6c6d0fdce#.pffijk5x3)
 
 ### Day 44: February 15, 2017
