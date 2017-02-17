@@ -1,5 +1,166 @@
 # 100 Days Of Code - Log
 
+### Day 45: February 16, 2017
+
+**Today's Progress**:
+
+1. Finishing up some Javascript functions for API project. Finished two illustrations for API project. 
+
+2. Published Week 6 blog post.
+
+3. Learning more about UI design. 
+
+**Link to work:**
+
+* [Day 45: #100DaysofCode Tweet]()
+* [Day 36: #100DaysofCode Blog Post - Week 6 Recap](https://medium.com/@brittanyrw/100-days-of-code-2017-week-6-recap-6af6c6d0fdce#.pffijk5x3)
+
+### Day 44: February 15, 2017
+
+**Today's Progress**:
+
+1. Attended a Thinkful DC meetup about Software Testing.
+
+2. Continue working on API.
+
+3. Continue working on next CSS image.
+
+**Link to work:**
+
+* [Day 44: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/832087309487075333)
+
+### Day 43: February 14, 2017
+
+**Today's Progress**:
+
+1. Started on API project illustrations and continuing with Javascript.
+
+2. Started to draft blog post for week 6.
+
+**Link to work:**
+
+* [Day 43: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/831701500858683393)
+
+### Day 42: February 13, 2017
+
+**Today's Progress**:
+
+1. Continue work on API project.
+
+**Link to work:**
+
+* [Day 42: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/831357845748740097)
+
+### Day 41: February 12, 2017
+
+**Today's Progress**:
+
+1. Practicing with Sketch. 
+
+2. Started some UI/UX tutorials.
+
+3. Continue working on API project.
+
+**Link to work:**
+
+* [Day 41: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/830987193711734786)
+
+### Day 40: February 11, 2017
+
+**Today's Progress**:
+
+1. Attended General Assembly DC Career Lab.
+
+2. Continue work on API project.
+
+3. Did some research on UI and UX design.
+
+**Link to work:**
+
+* [Day 40: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/830627826055393281)
+
+### Day 39: February 10, 2017
+
+**Today's Progress**:
+
+1. Continue work on API project - some styling for the mobile phone version.
+
+2. Started working on next CSS image.
+
+3. Completed some Javascript videos on Treehouse.
+
+**Link to work:**
+
+* [Day 39: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/830252498564825088)
+
+### Day 38: February 9, 2017
+
+**Today's Progress**:
+
+1. Continue work on API project - working on Javascript.
+
+**Link to work:**
+
+* [Day 38: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/829897583858446336)
+
+### Day 37: February 8, 2017
+
+**Today's Progress**:
+
+1. Coding for API project.
+
+2. Completed some FCC basic algorithms. 
+
+3. Attended a Thinkful DC Developer Tools Meetup.
+
+**Link to work:**
+
+* [Day 37: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/829550306686095360)
+
+### Day 36: February 7, 2017
+
+**Today's Progress**:
+
+1. Published Week 5 recap blog post.
+
+2. Continue with FCC Javascript exercises.
+
+3. Wireframming for API project.
+
+**Link to work:**
+
+* [Day 36: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/829152411537260545)
+* [Day 36: #100DaysofCode Blog Post - Week 5 Recap](https://medium.com/@brittanyrw/100-days-of-code-2017-week-5-recap-3fa933b6edf8#.6fplazwth)
+
+### Day 35: February 6, 2017
+
+**Today's Progress**:
+
+1. Finished FCC portfolio project.
+
+2. Continue working on API project.
+
+3. Finished basic Javascript exercises on FCC.
+
+**Link to work:**
+
+* [Day 35: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/828824939230806016)
+* [Day 35: #100DaysofCode Free Code Camp Portfolio](https://brittanyrw.github.io/free-code-camp-portfolio/)
+
+### Day 34: February 5, 2017
+
+**Today's Progress**:
+
+1. Worked on API project, started with planning and wireframming.
+
+2. Continue work on FCC portfolio project.
+
+3. Continue with FCC Javascript exercises. 
+
+**Link to work:**
+
+* [Day 34: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/828443488081559553)
+
 ### Day 33: February 4, 2017
 
 **Today's Progress**:
