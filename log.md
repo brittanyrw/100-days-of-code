@@ -1,5 +1,181 @@
 # 100 Days Of Code - Log
 
+### Day 58: March 1, 2017
+
+**Today's Progress**:
+
+1. Continue learning Node.js.
+
+2. Attend Thinkful online Workshop.
+
+3. Publish week 7 & 8 blog post.
+
+**Link to work:**
+
+* [Day 58: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/837156796460646400)
+* [Day 58: #100DaysofCode Week 7 & 8 Blog Post](https://medium.com/@brittanyrw/100-days-of-code-week-7-8-recap-843a9135fa99#.w62tiqdk5)
+
+### Day 57: February 28, 2017
+
+**Today's Progress**:
+
+1. Continue working on Taco CSS image.
+
+2. Continue learning Node.js.
+
+3. Start planning portfolio layout.
+
+**Link to work:**
+
+* [Day 57: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/836781669168394240)
+
+### Day 56: February 27, 2017
+
+**Today's Progress**:
+
+1. Working on Taco CSS image.
+
+2. Continue learning Node.js.
+
+3. Continue working on Free Code Camp weather project.
+
+**Link to work:**
+
+* [Day 56: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/836434171363016707)
+
+### Day 55: February 26, 2017
+
+**Today's Progress**:
+
+1. Started learning Node.js.
+
+2. Continue learning more about CSS animations.
+
+**Link to work:**
+
+* [Day 55: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/836093041668722688)
+
+### Day 54: February 25, 2017
+
+**Today's Progress**:
+
+1. Learning about CSS animations.
+
+2. Learning about UI and UX Design.
+
+3. Completed some Free Code Camp Javascript algorithms. 
+
+**Link to work:**
+
+* [Day 54: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/835713886603051008)
+
+### Day 53: February 24, 2017
+
+**Today's Progress**:
+
+1. Started planning out Free Code Camp weather API proect.
+
+2. Learning about CSS animations.
+
+3. Learning about UI and UX Design.
+
+4. Completed some Free Code Camp Javascript algorithms. 
+
+**Link to work:**
+
+* [Day : #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/835339302922043392)
+
+### Day 52: February 23, 2017
+
+**Today's Progress**:
+
+1. Finished API project. 
+
+**Link to work:**
+
+* [Day 52: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/835003320376897536)
+* [Day 52: #100DaysofCode MusicalPicks API project](https://github.com/brittanyrw/musicalpicks)
+
+### Day 51: February 22, 2017
+
+**Today's Progress**:
+
+1. Continue with API project.
+
+2. Created Animated Toad SVG image.
+
+**Link to work:**
+
+* [Day 51: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/834636783740678144)
+* [Day 51: #100DaysofCode Toad SVG image](https://codepen.io/trekkiegirl/full/MpgdVK/)
+
+### Day 50: February 21, 2017
+
+**Today's Progress**:
+
+1. Continue with API project.
+
+2. Created Pizza CSS Image.
+
+**Link to work:**
+
+* [Day 50: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/834266956060557312)
+* [Day 50: #100DaysofCode](http://codepen.io/trekkiegirl/full/NpKPYL/)
+
+### Day 49: February 20, 2017
+
+**Today's Progress**:
+
+1. Continue working on API project.
+
+2. Created Pokemon Bar Graph CSS image.
+
+3. Created Iron Man CSS image.
+
+4. Learning about UI and UX design
+
+**Link to work:**
+
+* [Day 49: #100DaysofCode Tweet #1](https://twitter.com/musicalwebdev/status/833793633686007808)
+* [Day 49: #100DaysofCode Tweet #2](https://twitter.com/musicalwebdev/status/833879513784262656)
+* [Day 49: #100DaysofCode Pokemon Bar Graph CSS image](http://codepen.io/trekkiegirl/full/QdeLqy/)
+* [Day 49: #100DaysofCode Iron Man CSS image](http://codepen.io/trekkiegirl/full/JEgXdr/)
+
+### Day 48: February 19, 2017
+
+**Today's Progress**:
+
+1. Continue working on API project.
+
+2. Complete Free Code Camp Random quote project.
+
+**Link to work:**
+
+* [Day 48: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/833525552967450624)
+* [Day 48: #100DaysofCode Free Code Camp Random Quote Generator](https://github.com/brittanyrw/free-code-camp-random-quotes)
+
+### Day 47: February 18, 2017
+
+**Today's Progress**:
+
+1. Continue working on API project.
+
+2. Started Free Code Camp random quote project.
+
+**Link to work:**
+
+* [Day 47: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/833191711941722113)
+
+### Day 46: February 17, 2017
+
+**Today's Progress**:
+
+1. Continue working on API project.
+
+**Link to work:**
+
+* [Day 46: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/832806536082644994)
+
 ### Day 45: February 16, 2017
 
 **Today's Progress**:
@@ -13,7 +189,7 @@
 **Link to work:**
 
 * [Day 45: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/832446832689160192)
-* [Day 36: #100DaysofCode Blog Post - Week 6 Recap](https://medium.com/@brittanyrw/100-days-of-code-2017-week-6-recap-6af6c6d0fdce#.pffijk5x3)
+* [Day 45: #100DaysofCode Blog Post - Week 6 Recap](https://medium.com/@brittanyrw/100-days-of-code-2017-week-6-recap-6af6c6d0fdce#.pffijk5x3)
 
 ### Day 44: February 15, 2017
 
