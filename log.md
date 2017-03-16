@@ -1,5 +1,186 @@
 # 100 Days Of Code - Log
 
+### Day 72: March 15, 2017
+
+**Today's Progress**:
+
+1. Published week 9 & 10 recap blog post
+
+2. Attended a software automation meetup
+
+3. Continue learning Node.js
+
+**Link to work:**
+
+* [Day 72: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/842211071540752384)
+* [Day 72: #100DaysofCode Week 9 & 10 Blog Post](https://medium.com/@brittanyrw/100-days-of-code-week-9-10-recap-21d4610c5f6#.yyff9rf1p)
+
+### Day 71: March 14, 2017
+
+**Today's Progress**:
+
+1. Completed Free Code Camp basic javascript algorithms
+
+2. Started on keyboard CSS image
+
+3. Continue learning Node.js
+
+**Link to work:**
+
+* [Day 71: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/841814596776275969)
+
+### Day 70: March 13, 2017
+
+**Today's Progress**:
+
+1. Worked on Daily UI challenge
+
+2. Continue learning Node.js
+
+**Link to work:**
+
+* [Day 70: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/841469835330650112)
+
+### Day 69: March 12, 2017
+
+**Today's Progress**:
+
+1. Continue learning Node.js
+
+2. Start working on Daily UI challenge
+
+**Link to work:**
+
+* [Day 69: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/841122342562594816)
+
+### Day 68: March 11, 2017
+
+**Today's Progress**:
+
+1. Completed phone CSS image
+
+**Link to work:**
+
+* [Day 68: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/840667361292214272)
+
+### Day 67: March 10, 2017
+
+**Today's Progress**:
+
+1. Continue working on phone CSS image
+
+2. Continue learning Node.js
+
+3. Planning portfolio layout
+
+**Link to work:**
+
+* [Day 67: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/840416970621231106)
+
+### Day 66: March 9, 2017
+
+**Today's Progress**:
+
+1. Continue working on phone CSS image
+
+2. Continue learning Node.js
+
+**Link to work:**
+
+* [Day 66: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/840062804765753344)
+
+
+### Day 65: March 8, 2017
+
+**Today's Progress**:
+
+1. Worked on phone CSS image
+
+2. Continue learning Node.js
+
+3. Attended a meetup
+
+**Link to work:**
+
+* [Day 65: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/839712598438391808)
+
+### Day 64: March 7, 2017
+
+**Today's Progress**:
+
+1. Continue learning Node.js
+
+2. Continue working on phone CSS image
+
+**Link to work:**
+
+* [Day 64: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/839311049044148225)
+
+
+### Day 63: March 6, 2017
+
+**Today's Progress**:
+
+1. Worked on phone CSS image
+
+2. Continue learning Node.js
+
+**Link to work:**
+
+* [Day 63: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/838938718945820672)
+
+### Day 62: March 5, 2017
+
+**Today's Progress**:
+
+1. Completed laptop CSS Image
+
+2. Continue learning Node.js
+
+**Link to work:**
+
+* [Day 62: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/838497941262385152)
+* [Day 62: #100DaysofCode Laptop CSS Image](http://codepen.io/trekkiegirl/full/ZeONRJ/)
+
+### Day 61: March 4, 2017
+
+**Today's Progress**:
+
+1. Worked on Laptop CSS Image
+
+2. Continue learning Node.js
+
+**Link to work:**
+
+* [Day 61: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/838240401022730249)
+
+### Day 60: March 3, 2017
+
+**Today's Progress**:
+
+1. Completed Green Lantern CSS Image
+
+2. Completed some Free Code Camp Exercises
+
+3. Continue learning Node.js.
+
+**Link to work:**
+
+* [Day 60: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/837887014238289921)
+* [Day 60: #100DaysofCode Green Lantern CSS Image](http://codepen.io/trekkiegirl/full/yMJYRZ/)
+
+### Day 59: March 2, 2017
+
+**Today's Progress**:
+
+1. Worked on Green Lantern CSS Image.
+
+2. Continue learning Node.js
+
+**Link to work:**
+
+* [Day 59: #100DaysofCode Tweet](https://twitter.com/musicalwebdev/status/837534005872353280)
+
 ### Day 58: March 1, 2017
 
 **Today's Progress**:
